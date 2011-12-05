@@ -1,8 +1,8 @@
 <?php
 /*
-Plugin Name: OrderStorm e-Commerce Plugin Customizer
+Plugin Name: OrderStorm e-Commerce Custom Files Manager
 Plugin URI: http://www.orderstorm.com/wordpress-ecommerce
-Description: A plugin to allow customization of styles for the OrderStorm WordPress e-Commerce Plugin
+Description: A plugin to manage .css and other files for the OrderStorm WordPress e-Commerce Plugin
 Version: 0.4.9.10
 Author: OrderStorm, Inc.
 Author URI: http://www.orderstorm.com
