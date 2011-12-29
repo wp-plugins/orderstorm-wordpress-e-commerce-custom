@@ -139,3 +139,31 @@ table.products.list
 	margin: 0 !important;
 	width: 100%;
 }
+
+table.products.list div.pcat-nav
+{
+	width: 100%;
+}
+
+table.products.list a.pcat-nav-prev
+{
+	float: left;
+}
+
+table.products.list a.pcat-nav-next
+{
+	float: right;
+}
+
+table.products.list span.pcat-nav-arrow,
+table.products.list span.pcat-nav-arrow
+{
+	font-weight: normal;
+}
+
+table.products.list div.pcat-nav-caption
+{
+	width: 45%;
+	margin: auto;
+	text-align: center;
+}
