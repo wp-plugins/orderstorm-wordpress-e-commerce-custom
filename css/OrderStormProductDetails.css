@@ -226,3 +226,104 @@ div.spacer
 {
   clear: both;
 }
+
+.ITE
+{
+	font: inherit;
+	padding: 3px 2px 1px 3px;
+}
+
+.ITEhover
+{
+	background-color: #ffC;
+}
+
+.ITEinput
+{
+	border: 1px solid black;
+	margin: 0px 0px 0px 0px;
+}
+
+.ITEinput:focus
+{
+	outline: none;
+}
+
+.ITEhasInput
+{
+	padding: 0px 0px 0px 0px;
+}
+
+#product_name
+{
+	width: 504px;
+}
+
+#product_name input
+{
+	float: left;
+	font: inherit;
+	padding: 3px 2px 1px 3px;
+	width: 500px;
+}
+
+#short_description textarea
+{
+	float: left;
+	font: inherit;
+	padding: 3px 2px 1px 3px;
+	width: 500px;
+	height: 500px;
+}
+
+#days_to_ship
+{
+	vertical-align: top;
+	width: 24px;
+}
+
+#days_to_ship input
+{
+	font: inherit;
+	padding: 3px 2px 1px 3px;
+	width: 20px;
+}
+
+#item_number
+{
+	vertical-align: top;
+	width: 104px;
+}
+
+#item_number input
+{
+	font: inherit;
+	padding: 3px 2px 1px 3px;
+	width: 100px;
+}
+
+#retail_price
+{
+	vertical-align: top;
+	width: 104px;
+}
+
+#retail_price input
+{
+	font: inherit;
+	padding: 3px 2px 1px 3px;
+	width: 100px;
+}
+
+#your_cost
+{
+	vertical-align: top;
+	width: 104px;
+}
+
+#your_cost input
+{
+	font: inherit;
+	padding: 3px 2px 1px 3px;
+	width: 100px;
+}
