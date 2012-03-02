@@ -4,7 +4,7 @@ Donate link: www.orderstorm.com/wordpress-e-commerce-sign-up/ecommerce-wordpress
 Tags: e-commerce, ecommerce, shopping cart, ecommerce shopping cart, cart, store
 Requires at least: 3.0
 Tested up to: 3.3
-Stable tag: 0.5.2-2012.02.28
+Stable tag: 0.5.3.1-2012.01.01
 
 The plugin allows customization and storage of css files in a separate folder for the OrderStorm eCommerce plugin.
 
@@ -46,6 +46,8 @@ Go to http://www.OrderStorm.com/wordpress-ecommerce/wordpress-shopping-cart-scre
 
 == Changelog ==
 
+= 0.5.3.1 [2012.03.01] =
+* Added CSS for showing a link to an OrderStorm administration page for editing product info, for users logged in their OrderStorm administration page.
 = 0.5.2 [2012.02.28] =
 * Added CSS for supporting inline AJAX editing of product information, in each product page, for users logged in their OrderStorm administration page.
 = 0.5.0.2 [2011.12.29] =
