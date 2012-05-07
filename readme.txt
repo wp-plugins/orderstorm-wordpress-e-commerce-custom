@@ -4,7 +4,7 @@ Donate link: www.orderstorm.com/wordpress-e-commerce-sign-up/ecommerce-wordpress
 Tags: e-commerce, ecommerce, shopping cart, ecommerce shopping cart, cart, store
 Requires at least: 3.0
 Tested up to: 3.3
-Stable tag: 0.5.3.1-2012.03.01
+Stable tag: 0.5.3.1-2012.05.07
 
 The plugin allows customization and storage of css files in a separate folder for the OrderStorm eCommerce plugin.
 
