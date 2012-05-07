@@ -46,6 +46,8 @@ Go to http://www.OrderStorm.com/wordpress-ecommerce/wordpress-shopping-cart-scre
 
 == Changelog ==
 
+= 0.5.3.2 [2012.05.07] =
+* Added CSS to fix the layout for product list items
 = 0.5.3.1 [2012.03.01] =
 * Added CSS for showing a link to an OrderStorm administration page for editing product info, for users logged in their OrderStorm administration page.
 = 0.5.2 [2012.02.28] =

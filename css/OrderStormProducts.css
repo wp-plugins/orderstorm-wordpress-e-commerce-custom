@@ -167,3 +167,10 @@ table.products.list div.pcat-nav-caption
 	margin: auto;
 	text-align: center;
 }
+
+td.product_description > h2
+{
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+	font-weight: normal;
+}
