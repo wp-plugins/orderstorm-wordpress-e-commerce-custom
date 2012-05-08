@@ -7,6 +7,7 @@ Tested up to: 3.3
 Stable tag: 0.5.3.2-2012.05.07
 
 The plugin allows customization and storage of css files in a separate folder for the OrderStorm eCommerce plugin.
+CAUTION: DO NOT UPGRADE THIS PLUGIN WITHOUT FIRST MAKING A BACKUP OF YOUR CONFIGURATION AND READING THE DOCUMENTATION.
 
 == Description ==
 Never lose the changes you make to your style sheets in an update of the OrderStorm e-Commerce plugin. The OrderStorm eCommerce Custom Files Manager sets up a second folder called **orderstorm-wordpress-e-commerce-custom** that contains a duplicate set of .css files for your shopping cart. You no longer need to worry about creating a separate backup of your style sheets prior to an upgrade. By using the OrderStorm eCommerce Custom Files Manager, its done for you.  After the plugin is installed, make all changes to the OrderStorm e-Commerce .css files in the Custom Files Manager plugin edit screen instead of to the .css files in the main plugin.
