@@ -2,8 +2,8 @@
 /*
 Plugin Name: OrderStorm e-Commerce Custom Files Manager
 Plugin URI: http://www.orderstorm.com/wordpress-ecommerce
-Description: A plugin to manage .css and other files for the OrderStorm WordPress e-Commerce Plugin
-Version: 0.5.3.2
+Description: A plugin to manage .css and other files for the OrderStorm WordPress e-Commerce Plugin. <strong> Warning! Do not update if you have made any changes to these files.  See the readme.txt file for instructions.</strong>
+Version: 0.5.4
 Author: OrderStorm, Inc.
 Author URI: http://www.orderstorm.com
 License: GPL2 or later

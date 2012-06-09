@@ -86,8 +86,8 @@
 .products .product_description
 {
 	vertical-align: top;
-	color: white;
-	background: #808080;
+	//color: white;
+	//background: #808080;
 	padding: 5px 10px 0px 10px !important;
 	-webkit-border-radius: 5px;
 	-khtml-border-radius: 5px;
@@ -102,33 +102,34 @@
 
 .products .product_description a:link
 {
-	color: white;
+	//color: white;
 }
 
 .products .product_description a:visited
 {
-	color: #00305E;
+	//color: #00305E;
 }
 
 .products .product_description a:hover
 {
-	color: #e9d400;
+	//color: #e9d400;
 }
 
 .products .product_description .item_number
 {
-	color: white;
+	//color: white;
 }
 
 .products .product_description .description
 {
-	color: black;
+	//color: black;
 }
 
 .products .product_description .price.sale
 {
 	padding-left: 10px;
-	color: yellow;
+	//color: yellow;
+	float: right;
 }
 
 table.products.list

@@ -6,8 +6,8 @@ div.ostrm_shopping_cart_status
 	right: 10px;
 	position: fixed;
 	padding: 10px;
-	background-color: blue;
-	color: white;
+	//background-color: blue;
+	//color: white;
 	opacity: 0.6;
 	filter: alpha(opacity=60);
 	-moz-opacity:0.6;
@@ -37,7 +37,7 @@ div.ostrm_shopping_cart_status > div.view_cart_button
 {
 	margin-top: 10px;
 	padding: 5px;
-	background-color: white;
+	background-color: #F1F1F1;
 	color: black;
 	-webkit-border-radius: 5px;
 	-khtml-border-radius: 5px;

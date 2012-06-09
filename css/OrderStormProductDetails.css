@@ -11,12 +11,12 @@
 
 .product.page, .product.page td, .product.page p
 {
-	font-size: 12px !important;
+	//font-size: 12px !important;
 }
 
 .product.page
 {
-	background-color: #FFFFFF;
+	//background-color: #FFFFFF;
 	padding: 5px 5px 5px 5px;
 	overflow: hidden;
 }
