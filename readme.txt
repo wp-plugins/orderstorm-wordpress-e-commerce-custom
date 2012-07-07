@@ -3,8 +3,8 @@ Contributors:  carlosman, dansallis
 Donate link: www.orderstorm.com/wordpress-e-commerce-sign-up/ecommerce-wordpress-plugin-pricing/
 Tags: e-commerce, ecommerce, shopping cart, ecommerce shopping cart, cart, store
 Requires at least: 3.0
-Tested up to: 3.3
-Stable tag: 0.5.4-2012.06.09
+Tested up to: 3.4.1
+Stable tag: 0.5.5-2012.07.07
 License: GPL2 or later
 
 The plugin allows customization of CSS files in a separate folder for the OrderStorm eCommerce plugin.
@@ -49,6 +49,10 @@ Go to http://www.OrderStorm.com/wordpress-ecommerce/wordpress-shopping-cart-scre
 
 == Changelog ==
 
+= 0.5.5 [2012.07.07] =
+* Changed CSS so Product pages can now use the product name as the WordPress page title
+* Added CSS for the color picker for product options
+* Fixed CSS comments syntax
 = 0.5.4 [2012.06.09] =
 * Changed CSS to facilitate style inheritance from the selected theme
 = 0.5.3.2 [2012.05.07] =
