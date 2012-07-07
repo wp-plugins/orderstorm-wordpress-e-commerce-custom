@@ -11,25 +11,24 @@
 
 .product.page, .product.page td, .product.page p
 {
-	//font-size: 12px !important;
+	/*font-size: 12px !important;*/
 }
 
 .product.page
 {
-	//background-color: #FFFFFF;
-	padding: 5px 5px 5px 5px;
+	/*background-color: #FFFFFF;*/
+	padding: 0 5px 5px 5px;
 	overflow: hidden;
-}
-
-.product.page p.no_pre_spacer
-{
-	margin-top: 0;
-	padding-top: 0;
 }
 
 .product.page p.product_name
 {
 	font-weight: bold;
+}
+
+p.product_name
+{
+	margin-bottom: 0;
 }
 
 .product.page p.no_inter_line
@@ -331,4 +330,10 @@ div.spacer
 #edit_product
 {
 	display: none;
+	margin-bottom: 1.625em;
+}
+
+.selected-color
+{
+	margin-left: 0.5em;
 }
