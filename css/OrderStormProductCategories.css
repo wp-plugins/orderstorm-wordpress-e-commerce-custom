@@ -11,9 +11,9 @@
 {
 	margin: 0px;
 	padding-left: 10px;
-	//font: 2em Tahoma;
-	//color: white !important;
-	//background-color: #808080 !important;
+	/*font: 2em Tahoma;*/
+	/*color: white !important;*/
+	/*background-color: #808080 !important;*/
 	-webkit-border-top-left-radius: 5px;
 	-khtml-border-top-left-radius: 5px;
 	-moz-border-radius-topleft: 5px;
@@ -27,7 +27,7 @@
 .categories .long_description
 {
 	padding: 0px 10px 10px 10px;
-	//background-color: #F0F0F0;
+	/*background-color: #F0F0F0;*/
 	-webkit-border-bottom-right-radius: 5px;
 	-khtml-border-bottom-right-radius: 5px;
 	-moz-border-radius-bottomright: 5px;
@@ -44,7 +44,7 @@
 	margin: 4px 2px 4px 6px !important;
 	width: 170px;
 	border: 2px solid #808080;
-	//background-color: #808080;
+	/*background-color: #808080;*/
 	text-align: center;
 	-webkit-border-radius: 5px;
 	-khtml-border-radius: 5px;
@@ -54,28 +54,28 @@
 
 .categories .tile_medium a
 {
-	//font: 10pt Tahoma;
+	/*font: 10pt Tahoma;*/
 	text-decoration: none;
 }
 
 .categories .tile_medium a:link
 {
-	//color: white;
+	/*color: white;*/
 }
 
 .categories .tile_medium a:active
 {
-	//color: #ffff00;
+	/*color: #ffff00;*/
 }
 
 .categories .tile_medium a:hover
 {
-	//color: #dddd00;
+	/*color: #dddd00;*/
 }
 
 .categories .tile_medium a:visited
 {
-	//color: #00305E;
+	/*color: #00305E;*/
 }
 
 .categories .tile_medium div

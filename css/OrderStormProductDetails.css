@@ -21,6 +21,12 @@
 	overflow: hidden;
 }
 
+.product.page p.no_pre_spacer
+{
+	margin-top: 0;
+	padding-top: 0;
+}
+
 .product.page p.product_name
 {
 	font-weight: bold;
@@ -336,4 +342,10 @@ div.spacer
 .selected-color
 {
 	margin-left: 0.5em;
+}
+
+.does_not_ship_free
+{
+	font-size: 18px;
+	color: red;
 }
