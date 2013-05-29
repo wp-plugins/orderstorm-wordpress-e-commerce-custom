@@ -4,8 +4,8 @@ div.ostrm_shopping_cart_status_widget
 	text-align: center;
 	width: 215px;
 	padding: 10px;
-	//background-color: blue;
-	//color: white;
+	/* background-color: blue; */
+	/* color: white; */
 	-webkit-border-radius: 7px;
 	-khtml-border-radius: 7px;
 	-moz-border-radius: 7px;
@@ -14,6 +14,7 @@ div.ostrm_shopping_cart_status_widget
    -khtml-user-select: none;
    -webkit-user-select: none;
    -o-user-select: none;
+   -ms-user-select: none;
    user-select: none;
 }
 

@@ -1,7 +1,7 @@
 .ostrm_categories_menu
 {
-	//Use .png image for a black background with rounded corners;
-	//background: url(../images/menu_bottom.png) 0 100% no-repeat transparent;
+	/* Use .png image for a black background with rounded corners; */
+	/* background: url(../images/menu_bottom.png) 0 100% no-repeat transparent; */
 	padding-bottom: 10px;
 }
 
@@ -10,8 +10,8 @@
 	width:100%;
 	vertical-align: top;
 	padding: 10px 0px 0px 0px;
-	//Use .png image for a black background with rounded corners;
-	//background: url(../images/menu_top.png) 0 0 no-repeat;
+	/* Use .png image for a black background with rounded corners; */
+	/* background: url(../images/menu_top.png) 0 0 no-repeat; */
 }
 
 .ostrm_categories_menu.topmenu
@@ -32,8 +32,8 @@
 {
 	width:233px !important;
 	background-color: #F1F1F1 !important;
-	//Use .png image for a black background with rounded corners;
-	//background -image:url(../images/menu_center.png);
+	/* Use .png image for a black background with rounded corners; */
+	/* background -image:url(../images/menu_center.png); */
 	margin:0px;
 	padding:0px;
 }
@@ -59,10 +59,10 @@
 	padding-bottom: 6px !important;
 	padding-left: 35px !important;
 	padding-right: 15px !important;
-	//border-bottom: 1px solid #323232;
+	/* border-bottom: 1px solid #323232; */
 	text-align: left !important;
-	// Use bullet.png image for a right arrow;
-	//background-image: url(../images/bullet.png) !important;
+	/* Use bullet.png image for a right arrow; */
+	/* background-image: url(../images/bullet.png) !important; */
 	background-repeat: no-repeat !important;
 	background-position: 15px 8px !important;
 	list-style-type: none !important;
@@ -81,15 +81,15 @@
 
 .ostrm_categories_menu_list a:link
 {
-	//color:#FFFFFF !important;
+	/* color:#FFFFFF !important; */
 }
 
 .ostrm_categories_menu_list a:visited
 {
-	//color:#FFFFFF !important;
+	/* color:#FFFFFF !important; */
 }
 
 .ostrm_categories_menu_list a:hover
 {
-	//color:#e9d400 !important;
+	/* color:#e9d400 !important; */
 }

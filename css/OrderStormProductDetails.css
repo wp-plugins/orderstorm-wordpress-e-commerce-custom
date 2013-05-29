@@ -349,3 +349,11 @@ div.spacer
 	font-size: 18px;
 	color: red;
 }
+
+tr.productsListRow td {
+	border-top: none;
+}
+
+tr.productsListRow:hover td {
+	background-color: #D6E9F8;
+}
