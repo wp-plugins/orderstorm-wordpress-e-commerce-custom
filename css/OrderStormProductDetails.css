@@ -357,3 +357,11 @@ tr.productsListRow td {
 tr.productsListRow:hover td {
 	background-color: #D6E9F8;
 }
+
+tr.productsOrderFormRow td {
+	border-top: none;
+}
+
+tr.productsOrderFormRow:hover td {
+	background-color: #D6E9F8;
+}

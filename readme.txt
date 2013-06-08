@@ -4,7 +4,7 @@ Donate link: www.orderstorm.com/wordpress-e-commerce-sign-up/ecommerce-wordpress
 Tags: e-commerce, ecommerce, shopping cart, ecommerce shopping cart, cart, store
 Requires at least: 3.0
 Tested up to: 3.5.1
-Stable tag: 0.6.1-2013.05.29
+Stable tag: 0.6.2-2013.06.08
 License: GPL2 or later
 
 The plugin allows customization of CSS files in a separate folder for the OrderStorm eCommerce plugin.
@@ -49,6 +49,8 @@ Go to http://www.OrderStorm.com/wordpress-ecommerce/wordpress-shopping-cart-scre
 
 == Changelog ==
 
+= 0.6.2 [2013.06.08] =
+* Added styles for the new "product order form" functionality
 = 0.6.1 [2013.05.29] =
 * Added styles for new "Products List" product page functionality
 * Corrected syntax errors in many CSS files
